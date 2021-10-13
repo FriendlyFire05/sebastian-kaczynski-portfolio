@@ -1,9 +1,10 @@
 /* CSS files add styling rules to your content */
-html{
-  
+body {
+  background: orange;
+  background: linear-gradient(to right, black, gray);
 }
 
 footer{
-  background-color:gray;
+  background-color:white;
   
 }
