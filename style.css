@@ -1,10 +1,55 @@
 /* CSS files add styling rules to your content */
-body {
-  background: orange;
-  background: linear-gradient(to right, black, gray);
-}
+header {
+    background-color: black;
+    background: linear-gradient(45deg, gray, black);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
 
-footer{
-  background-color:white;
+
+
+  li {
+    float: left;
+  }
   
-}
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px ;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content:space-around;
+    background-color: #333;
+  }
+  
+
+  .header-title a {
+    text-decoration: none;
+    color: white;
+  }
+
+  hr {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 99, 15);
+  }
+
+  aside {
+    margin: 0;
+    padding: 10;
+    
+    outline: 
+  }
