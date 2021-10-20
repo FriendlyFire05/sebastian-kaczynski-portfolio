@@ -47,10 +47,25 @@ header {
     background-color: rgb(218, 99, 15);
   }
 
-  aside {
+  .aside-top {
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 1350px;
+    margin-right: 50%;
+  
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+    border-radius: 5px;
+  }
+
+  .aside-bottom {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50%;
   
     padding-top: 200px;
     padding-bottom: 200px;
