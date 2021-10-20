@@ -76,3 +76,19 @@ header {
     border-color: gray;
     border-radius: 5px;
   }
+
+  .aside-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 0%;
+    margin-left: 50%;
+  
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: gray;
+    border-radius: 5px;
+  }
