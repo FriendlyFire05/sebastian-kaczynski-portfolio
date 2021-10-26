@@ -92,3 +92,12 @@ header {
     border-color: gray;
     border-radius: 5px;
   }
+
+footer {
+  background: #333;
+  color: white;
+  height: 100px;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
