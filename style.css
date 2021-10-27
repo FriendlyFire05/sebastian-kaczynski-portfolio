@@ -114,6 +114,5 @@ footer {
   padding: 0px;
   width: 100%;
   
-  display: flex; = on top
-  justify-contect: center;
+  text-align: center;
 }
