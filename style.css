@@ -27,6 +27,7 @@ header {
   
   li a:hover {
     background-color: black;
+    transition: 0.5s;
   }
 
   ul {
