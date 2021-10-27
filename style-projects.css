@@ -52,15 +52,15 @@ header {
     margin-right: 35%;
     margin-left: 5%;
   
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 0px;
+    padding-bottom: 200px;
     
     float: left;
     width: 60%;
   }
     
   .project-image-dart-game {
-    
+    height: 10px;
   }
 
     .project-tab-2 {
