@@ -57,27 +57,25 @@ header {
  
   }
 
-  .left-box {
+  .section-top {
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 70%;
-    margin-left: 5%;
+
   
     padding-top: 200px;
     padding-bottom: 200px;
     
     background-color: rgb(233,236,239);
-    border-style: solid;
-    border-width: 3px;
-    border-color: gray;
+    
+    
+    
     border-radius: 5px;
   }
 
-  .center-box {
+  .section-bottom {
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 70%;
-    margin-left: 55%;
+
   
     padding-top: 200px;
     padding-bottom: 200px;
@@ -113,7 +111,4 @@ footer {
   margin: 0px;
   padding: 0px;
   width: 100%;
-  
-  display: flex; = on top
-  justify-contect: center;
 }
