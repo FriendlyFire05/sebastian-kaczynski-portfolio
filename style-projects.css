@@ -44,10 +44,46 @@ header {
     color: white;
   }
 
-.project-tab-1 {
-  background-color:
-}
+  .project-tab-1 {
+    background-color: rgb(233,236,239);
+    color: red;
+  
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 35%;
+    margin-left: 5%;
+  
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
 
+    .project-tab-2 {
+    background-color: rgb(233,236,239);
+    color: red;
+  
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 35%;
+    margin-left: 5%;
+  
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+    .project-filters {
+    background-color: rgb(233,236,239);
+    color: red;
+  
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 5%;
+    margin-left: 70%;
+  
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  
   hr {
     margin: 0;
     padding: 0;
