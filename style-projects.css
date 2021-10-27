@@ -48,8 +48,8 @@ header {
     background-color: rgb(233,236,239);
     color: red;
   
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 25px;
+    margin-bottom: 0px;
     margin-right: 35%;
     margin-left: 5%;
   
@@ -64,8 +64,8 @@ header {
     background-color: rgb(233,236,239);
     color: red;
   
-    margin-top: 1%;
-    margin-bottom: 1%;
+    margin-top: 25px;
+    margin-bottom: 0px;
     margin-right: 35%;
     margin-left: 5%;
   
@@ -77,8 +77,6 @@ header {
     
   }
 
-
-
     .project-filters {
     background-color: rgb(233,236,239);
     color: red;
@@ -88,8 +86,8 @@ header {
     margin-right: 5%;
     margin-left: 70%;
   
-    padding-top: 200px;
-    padding-bottom: 275px;
+    padding-top: 262.5px;
+    padding-bottom: 262.5px;
     
   }
 
